@@ -1,6 +1,6 @@
 # Tableau
 # Questions for UK Bank graphs:
-$ What is the distribution pattern of customer account balances?
+1)What is the distribution pattern of customer account balances?
 2)Which surname category holds the highest total account balance?
 3)Which job category has the highest number of customers?
 4)What is the gender distribution of customers?

@@ -39,7 +39,7 @@ To analyze customer financial behavior, demographic patterns, and balance distri
 # Dashboard Link
 https://public.tableau.com/views/UK_17707837137320/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-# Question for Movie Rating graphs:
+# @.Question for Movie Rating graphs:
 # Movie Rating Analysis Dashboard (Tableau)
 How have movie ratings changed over different release years.How are audience ratings distributed across various movie genres.
 Which genre has the highest average Rotten Tomatoes rating.What proportion of movies belongs to each genre category.

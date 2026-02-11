@@ -1,11 +1,11 @@
 # Tableau
 # Questions for UK Bank graphs:
-1)What is the distribution pattern of customer account balances?
-2)Which surname category holds the highest total account balance?
-3)Which job category has the highest number of customers?
-4)What is the gender distribution of customers?
-5)Which age group has the highest number of transactions?
-6)create a dashboard for the UK Bank dataset?
+Analyze the distribution pattern of customer account balances.
+Identify which surname category holds the highest total account balance.
+Determine which job category has the highest number of customers.
+Examine the gender distribution of customers in the dataset.
+Identify the age group with the highest number of transactions.
+Develop an interactive dashboard to visualize and analyze insights from the UK Bank dataset.
 
 # UK Bank Customer Analysis Dashboard (Tableau)
 
